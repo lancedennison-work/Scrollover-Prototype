@@ -1,4 +1,4 @@
 ﻿# Scollover Concept Prototype
-Use the color queues to find the goal!
+Use the color cues to find the goal!
 
 https://lancedennison-work.github.io/Scrollover-Prototype/
